@@ -1,14 +1,14 @@
 // ==UserScript==
 // @grant        none
 // @version      1.0
-// @author       mudachyo
+// @author       amir-homous
 // @name         PixelTap web
 // @description  21.06.2024, 21:31:29
 // @match        *://sexyzbot.pxlvrs.io/*
-// @homepage     https://github.com/mudachyo/PixelTap
+// @homepage     https://github.com/amir-homous/PixelTap
 // @icon         https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ8fIh36hOYyMEv7XiDsX0EMOP2MC18Trptg&s
-// @downloadURL  https://github.com/mudachyo/PixelTap/raw/main/pixeltap-web.user.js
-// @updateURL    https://github.com/mudachyo/PixelTap/raw/main/pixeltap-web.user.js
+// @downloadURL  https://github.com/amir-homous/PixelTap/raw/main/pixeltap-web.user.js
+// @updateURL    https://github.com/amir-homous/PixelTap/raw/main/pixeltap-web.user.js
 // ==/UserScript==
 
 (function() {
